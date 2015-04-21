@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="menu" class="container">
+	    <View layout="vertical">
+			<Label id="label"> welcome, user </Label>
+	    </View>
+	</Window>
+</Alloy>

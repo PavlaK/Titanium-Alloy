@@ -1,0 +1,4 @@
+// we don't need the login form here, it is placed in index.xml
+<Alloy>
+	<Window></Window>
+</Alloy>

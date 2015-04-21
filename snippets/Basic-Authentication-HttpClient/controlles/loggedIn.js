@@ -18,4 +18,4 @@ client.onerror = function(e) {
 client.timeout = 5000;    
 client.send();
 
-$.menu.open();
+$.loggedIn.open();
